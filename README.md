@@ -24,6 +24,7 @@ Framework: Vue
 * Run Project
 ```bash
   npm run serve
+```
 
 ## Customer Portal Screenshots ⚙️
 
